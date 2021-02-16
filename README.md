@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LaryTheSeagull
+- 👀 I’m interested in Crypto, AI, web app dev, data visualization, graph theory, math in general.
+- 🌱 I’m currently learning Docker, openAI's gym, reinforcement learning, trading strategies applied to the cryptocurrency market.
+- 💞️ I’m looking to collaborate on anything as long as it's cool and challenging ;)
+- 📫 How to reach me : nathanrenaud001@hotmail.com
